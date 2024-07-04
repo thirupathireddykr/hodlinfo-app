@@ -6,6 +6,6 @@
     npm install
 
 ## Run the app
-    npm start or node app.js or nodemon app.js
-    runs in the localhost http://localhost:3000
-    to view the data in json form go to http://localhost:3000/data
+    npm start
+    or
+    nodemon app.js
